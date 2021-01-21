@@ -1,0 +1,126 @@
+
+/* pretty things */
+html{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#jer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: auto;
+}
+
+body{
+    background-image: url("background.png");
+    background-size: cover;
+}
+
+nav{
+  position: fixed;
+}
+
+h1#intro{
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4rem;
+  padding-top: 100px;
+}
+
+h1{
+  color: black;
+  text-align: center;
+  opacity: 100%;
+}
+
+div.info{
+  background-color: rgba(255, 255, 255, 0.5);
+  border:black solid 2px;
+  border-radius: 10px;
+  /* opacity: 50%; */
+  width: 50%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4{
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  opacity: 50%;
+}
+
+img#nav{
+  width: 50px;
+  padding: 0%;
+  margin: 0%;
+}
+
+img#carousel{
+  height: 30em;
+  border: solid black 3px;
+  box-shadow: black 0px -4px 5px;
+}
+a#getStarted{
+  border: black 2px solid;
+  background-color: rgb(88, 88, 88);
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 25px;
+  color: black;
+  font-weight: bold;
+}
+a#getStarted:hover{
+border: black 2px solid;
+background-color: black;
+text-decoration: none;
+padding: 5px;
+border-radius: 25px;
+color: white;
+}
+
+footer{
+  color: rgb(175, 175, 175);
+  text-align: center;
+}
+
+#about{
+  text-decoration: none;
+  color: rgb(0, 60, 255);
+}
+
+img.rob {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  border: black 2px solid;
+  background-color: white;
+  margin-right: 10%;
+  box-shadow: white 0px 0px 20px;
+
+}
+
+div.bob {
+  margin: auto;
+  width: 100%;
+  padding-left: 20%;
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  font-size: 3em;
+  
+}
+
+#1:hover{
+  background-color: rgba(0, 0, 0, 0.4);   
+}

@@ -1,0 +1,54 @@
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+img#me{
+    border: white 3px solid;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30em;
+}
+
+.founder{
+    background-color: rgba(226, 226, 226, 0.5);
+    width: 50%;
+    border: black 2px solid;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+#jr{
+    margin: 20px;
+    color: black;
+    opacity: 100%;
+}
+
+.mission{
+    background-color: rgba(226, 226, 226, 0.5);
+    width: 50%;
+    border: black 2px solid;
+    border-radius: 20px;
+    margin-left: 45%;
+    padding: 0%;
+
+}
+
+#mission{
+    color: black;
+    margin: 20px;
+    padding: 0%;
+    margin: 10px;
+    
+}
+
+#help{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: white 2px solid;
+    border-radius: 100px;
+    height: 30em;
+}
